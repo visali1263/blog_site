@@ -1,2 +1,2 @@
 # blog_site
-A blog page built for my friend (front-end)
+Front-end of this blog site has been contributed by me using bootstrap studio.
